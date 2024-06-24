@@ -170,7 +170,7 @@
         let currentImageIndex = 0;
 
         function changeBackgroundImage() {
-            document.body.style.backgroundImage = url(${backgroundImages[currentImageIndex]});
+            document.body.style.backgroundImage = `url(${backgroundImages[currentImageIndex]})`;
             currentImageIndex = (currentImageIndex + 1) % backgroundImages.length;
         }
 
