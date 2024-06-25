@@ -14,3 +14,5 @@ Topics covered by me with respect to the dates:
 19 June 24 : Were given a website link to analyse, study and implement a sample simulation environment using pygame. Link : https://medium.com/agents-and-robots/a-multi-agent-system-in-python-74701f256c3a 
 20 June 24 : Were given the task to analyse the action space and state space of the research paper and told to make changes in the simulation created before as per the research papers. 
 21 June 24 : Started learning and understanding about the simulation environment and started doing changes in it as per the paper.
+24 June 24 : Analysed the Action space , State space in " Multi-Agent_Deep_Reinforcement_Learning_for_UAVs_Navigation_in_Unknown_Complex_Environment " paper and created a simulation for the same.
+25 June 24 : Started studying and analysing the Implementation of DRL in " Multi-Agent_Deep_Reinforcement_Learning_for_UAVs_Navigation_in_Unknown_Complex_Environment " paper.
